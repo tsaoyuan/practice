@@ -12,3 +12,7 @@ input[type=submit] {
 .cat {
   background-color: lightgreen;
 }
+
+.dog {
+  background-color: lightcoral;
+}
