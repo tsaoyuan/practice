@@ -19,6 +19,10 @@ footer {
   margin-top: 20px;
 }
 
+nav {
+  margin-bottom: 20px;
+}
+
 .cat {
   background-color: lightgreen;
 }
@@ -31,6 +35,6 @@ footer {
   background-color: lightsalmon;
 }
 
-.fish {
+.tiger {
   background-color: darkred;
 }
